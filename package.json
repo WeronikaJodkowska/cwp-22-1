@@ -1,0 +1,16 @@
+{
+  "name": "cwp-22-1",
+  "version": "1.0.0",
+  "author": {
+    "email": "weronika.jodkowska@outlook.com",
+    "name": "Weronika"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "cwp-22-1 lab",
+  "dependencies": {
+
+  }
+}
