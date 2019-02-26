@@ -1,4 +1,4 @@
-const { EXPRESSIONS, PRIOPETETS } = require('./resolveExpressions');
+const { EXPRESSIONS, PRIORETETS } = require('./resolveExpressions');
 
 let badges =[];
 let literals = [];
